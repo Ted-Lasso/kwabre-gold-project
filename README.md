@@ -38,12 +38,15 @@ pip install numpy pandas
 python generate_data.py
 ```
 
+## Dashboard
+
+[View interactive dashboard on Tableau Public](https://public.tableau.com/views/KwabreGoldProject/KwabreGoldProject)
+
 ## Tools used
 - Python 3.10+
 - numpy, pandas
-- ## Dashboard
-[View interactive dashboard on Tableau Public](https://public.tableau.com/views/KwabreGoldProject/KwabreGoldProject)
+- Tableau Public
 
 ## Author
-Emmanuel Ako-Addo | Geological Engineer & Data Analyst
-[LinkedIn](https://linkedin.com/in/eakoaddo)
+Emmanuel Ako-Addo | Geological Engineer & Data Analyst  
+[LinkedIn](https://linkedin.com/in/eakoaddo) | [GitHub](https://github.com/Ted-Lasso/kwabre-gold-project)
