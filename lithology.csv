@@ -1,0 +1,633 @@
+HoleID,From_m,To_m,Lithology,Alteration,Oxidation
+KW001,0,20,Saprolite,Partial Oxidation,Transitional
+KW001,20,28,Phyllite,Strong Sericite,Fresh
+KW001,28,29,Quartz-Carbonate Vein,Silicification,Fresh
+KW001,29,36,Phyllite,Strong Sericite,Fresh
+KW001,36,37,Quartz-Carbonate Vein,Silicification,Fresh
+KW001,37,41,Phyllite,Moderate Sericite,Fresh
+KW001,41,61,Greywacke,Silicification,Fresh
+KW001,61,62,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW001,62,70,Mafic Volcanic,Weak Chlorite,Fresh
+KW001,70,79,Phyllite,Strong Sericite,Fresh
+KW001,79,80,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW001,80,84,Phyllite,Weak Sericite,Fresh
+KW001,84,85,Quartz-Carbonate Vein,Silicification,Fresh
+KW001,85,102,Phyllite,Strong Sericite,Fresh
+KW001,102,109,Felsic Volcanic,Silicification,Fresh
+KW001,109,122,Phyllite,Weak Sericite,Fresh
+KW001,122,128,Greywacke,Weak Chlorite,Fresh
+KW002,0,10,Saprolite,Oxidised,Oxidised
+KW002,10,45,Phyllite,Moderate Sericite,Fresh
+KW002,45,54,Greywacke,Weak Chlorite,Fresh
+KW002,54,62,Graphitic Phyllite,Silicification,Fresh
+KW002,62,63,Quartz-Carbonate Vein,Silicification,Fresh
+KW002,63,71,Graphitic Phyllite,Silicification,Fresh
+KW002,71,100,Carbonaceous Shale,Carbon Alteration,Fresh
+KW002,100,104,Graphitic Phyllite,Carbon Alteration,Fresh
+KW003,0,16,Saprolite,Oxidised,Oxidised
+KW003,16,30,Felsic Volcanic,Silicification,Fresh
+KW003,30,58,Phyllite,Strong Sericite,Fresh
+KW003,58,59,Quartz-Carbonate Vein,Silicification,Fresh
+KW003,59,65,Phyllite,Weak Sericite,Fresh
+KW003,65,67,Greywacke,Moderate Chlorite,Fresh
+KW003,67,68,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW003,68,83,Greywacke,Silicification,Fresh
+KW003,83,104,Graphitic Phyllite,Strong Carbon,Fresh
+KW003,104,106,Carbonaceous Shale,Moderate Silicification,Fresh
+KW003,106,107,Quartz-Carbonate Vein,Silicification,Fresh
+KW003,107,119,Carbonaceous Shale,Moderate Silicification,Fresh
+KW003,119,131,Greywacke,Silicification,Fresh
+KW003,131,146,Carbonaceous Shale,Moderate Silicification,Fresh
+KW003,146,153,Mafic Volcanic,Chlorite,Fresh
+KW003,153,154,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW003,154,157,Mafic Volcanic,Epidote,Fresh
+KW003,157,185,Greywacke,Moderate Chlorite,Fresh
+KW003,185,186,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW003,186,191,Greywacke,Moderate Chlorite,Fresh
+KW004,0,15,Saprolite,Oxidised,Transitional
+KW004,15,16,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW004,16,22,Graphitic Phyllite,Silicification,Transitional
+KW004,22,23,Quartz-Carbonate Vein,Carbonate Alteration,Transitional
+KW004,23,36,Graphitic Phyllite,Carbon Alteration,Fresh
+KW004,36,37,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW004,37,41,Graphitic Phyllite,Carbon Alteration,Fresh
+KW004,41,42,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW004,42,51,Graphitic Phyllite,Carbon Alteration,Fresh
+KW004,51,67,Phyllite,Strong Sericite,Fresh
+KW004,67,68,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW004,68,81,Phyllite,Weak Sericite,Fresh
+KW004,81,101,Felsic Volcanic,Silicification,Fresh
+KW004,101,102,Quartz-Carbonate Vein,Silicification,Fresh
+KW004,102,120,Felsic Volcanic,Silicification,Fresh
+KW005,0,11,Saprolite,Partial Oxidation,Transitional
+KW005,11,18,Graphitic Phyllite,Carbon Alteration,Transitional
+KW005,18,19,Quartz-Carbonate Vein,Silicification,Transitional
+KW005,19,47,Phyllite,Weak Sericite,Fresh
+KW005,47,67,Graphitic Phyllite,Carbon Alteration,Fresh
+KW005,67,83,Greywacke,Moderate Chlorite,Fresh
+KW005,83,92,Phyllite,Moderate Sericite,Fresh
+KW005,92,93,Quartz-Carbonate Vein,Silicification,Fresh
+KW005,93,102,Greywacke,Weak Chlorite,Fresh
+KW005,102,103,Quartz-Carbonate Vein,Silicification,Fresh
+KW005,103,111,Greywacke,Silicification,Fresh
+KW006,0,22,Saprolite,Partial Oxidation,Transitional
+KW006,22,37,Graphitic Phyllite,Carbon Alteration,Fresh
+KW006,37,38,Quartz-Carbonate Vein,Silicification,Fresh
+KW006,38,50,Graphitic Phyllite,Strong Carbon,Fresh
+KW006,50,51,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW006,51,57,Graphitic Phyllite,Strong Carbon,Fresh
+KW006,57,59,Quartz-Carbonate Vein,Silicification,Fresh
+KW006,59,75,Graphitic Phyllite,Carbon Alteration,Fresh
+KW006,75,117,Felsic Volcanic,Silicification,Fresh
+KW006,117,139,Mafic Volcanic,Weak Chlorite,Fresh
+KW006,139,149,Phyllite,Moderate Sericite,Fresh
+KW006,149,150,Quartz-Carbonate Vein,Silicification,Fresh
+KW006,150,157,Phyllite,Weak Sericite,Fresh
+KW006,157,158,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW006,158,163,Phyllite,Strong Sericite,Fresh
+KW006,163,164,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW006,164,192,Phyllite,Weak Sericite,Fresh
+KW006,192,193,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW007,0,12,Saprolite,Oxidised,Oxidised
+KW007,12,13,Quartz-Carbonate Vein,Silicification,Oxidised
+KW007,13,53,Graphitic Phyllite,Silicification,Fresh
+KW007,53,78,Mafic Volcanic,Weak Chlorite,Fresh
+KW007,78,108,Greywacke,Weak Chlorite,Fresh
+KW007,108,139,Carbonaceous Shale,Moderate Silicification,Fresh
+KW007,139,141,Phyllite,Weak Sericite,Fresh
+KW007,141,142,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW007,142,146,Phyllite,Moderate Sericite,Fresh
+KW008,0,24,Saprolite,Oxidised,Transitional
+KW008,24,52,Greywacke,Weak Chlorite,Fresh
+KW008,52,53,Quartz-Carbonate Vein,Silicification,Fresh
+KW008,53,57,Greywacke,Moderate Chlorite,Fresh
+KW008,57,58,Phyllite,Moderate Sericite,Fresh
+KW008,58,59,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW008,59,70,Phyllite,Moderate Sericite,Fresh
+KW008,70,71,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW008,71,77,Phyllite,Moderate Sericite,Fresh
+KW008,77,87,Graphitic Phyllite,Strong Carbon,Fresh
+KW008,87,88,Quartz-Carbonate Vein,Silicification,Fresh
+KW008,88,108,Graphitic Phyllite,Silicification,Fresh
+KW008,108,109,Quartz-Carbonate Vein,Silicification,Fresh
+KW008,109,112,Graphitic Phyllite,Strong Carbon,Fresh
+KW008,112,129,Mafic Volcanic,Epidote,Fresh
+KW009,0,20,Saprolite,Oxidised,Transitional
+KW009,20,48,Phyllite,Strong Sericite,Fresh
+KW009,48,49,Graphitic Phyllite,Silicification,Fresh
+KW009,49,50,Quartz-Carbonate Vein,Silicification,Fresh
+KW009,50,58,Graphitic Phyllite,Silicification,Fresh
+KW009,58,59,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW009,59,69,Graphitic Phyllite,Carbon Alteration,Fresh
+KW009,69,70,Quartz-Carbonate Vein,Silicification,Fresh
+KW009,70,78,Graphitic Phyllite,Silicification,Fresh
+KW009,78,107,Carbonaceous Shale,Moderate Silicification,Fresh
+KW009,107,145,Graphitic Phyllite,Silicification,Fresh
+KW010,0,10,Saprolite,Partial Oxidation,Oxidised
+KW010,10,31,Phyllite,Weak Sericite,Fresh
+KW010,31,47,Greywacke,Silicification,Fresh
+KW010,47,48,Quartz-Carbonate Vein,Silicification,Fresh
+KW010,48,68,Greywacke,Weak Chlorite,Fresh
+KW010,68,107,Graphitic Phyllite,Silicification,Fresh
+KW010,107,111,Phyllite,Strong Sericite,Fresh
+KW010,111,112,Quartz-Carbonate Vein,Silicification,Fresh
+KW010,112,121,Phyllite,Weak Sericite,Fresh
+KW011,0,24,Saprolite,Oxidised,Fresh
+KW011,24,79,Graphitic Phyllite,Carbon Alteration,Fresh
+KW011,79,80,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW011,80,91,Graphitic Phyllite,Silicification,Fresh
+KW011,91,99,Felsic Volcanic,Moderate Sericite,Fresh
+KW011,99,108,Carbonaceous Shale,Moderate Silicification,Fresh
+KW011,108,109,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW011,109,137,Carbonaceous Shale,Moderate Silicification,Fresh
+KW011,137,146,Phyllite,Weak Sericite,Fresh
+KW011,146,147,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW011,147,162,Phyllite,Weak Sericite,Fresh
+KW011,162,171,Mafic Volcanic,Chlorite,Fresh
+KW012,0,14,Saprolite,Oxidised,Oxidised
+KW012,14,22,Phyllite,Weak Sericite,Transitional
+KW012,22,23,Quartz-Carbonate Vein,Silicification,Transitional
+KW012,23,24,Phyllite,Strong Sericite,Transitional
+KW012,24,25,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW012,25,52,Phyllite,Strong Sericite,Fresh
+KW012,52,68,Graphitic Phyllite,Silicification,Fresh
+KW012,68,69,Quartz-Carbonate Vein,Silicification,Fresh
+KW012,69,70,Graphitic Phyllite,Strong Carbon,Fresh
+KW012,70,106,Carbonaceous Shale,Carbon Alteration,Fresh
+KW012,106,134,Phyllite,Moderate Sericite,Fresh
+KW013,0,10,Saprolite,Partial Oxidation,Oxidised
+KW013,10,24,Phyllite,Moderate Sericite,Transitional
+KW013,24,25,Quartz-Carbonate Vein,Silicification,Transitional
+KW013,25,27,Phyllite,Moderate Sericite,Transitional
+KW013,27,39,Mafic Volcanic,Weak Chlorite,Fresh
+KW013,39,54,Carbonaceous Shale,Moderate Silicification,Fresh
+KW013,54,55,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW013,55,66,Carbonaceous Shale,Carbon Alteration,Fresh
+KW013,66,67,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW013,67,69,Carbonaceous Shale,Moderate Silicification,Fresh
+KW013,69,70,Quartz-Carbonate Vein,Silicification,Fresh
+KW013,70,74,Carbonaceous Shale,Moderate Silicification,Fresh
+KW013,74,92,Mafic Volcanic,Chlorite,Fresh
+KW013,92,95,Graphitic Phyllite,Silicification,Fresh
+KW013,95,96,Quartz-Carbonate Vein,Silicification,Fresh
+KW013,96,112,Graphitic Phyllite,Carbon Alteration,Fresh
+KW013,112,121,Greywacke,Moderate Chlorite,Fresh
+KW013,121,122,Quartz-Carbonate Vein,Silicification,Fresh
+KW013,122,135,Greywacke,Moderate Chlorite,Fresh
+KW013,135,150,Graphitic Phyllite,Silicification,Fresh
+KW014,0,22,Saprolite,Oxidised,Transitional
+KW014,22,33,Graphitic Phyllite,Strong Carbon,Fresh
+KW014,33,57,Phyllite,Weak Sericite,Fresh
+KW014,57,79,Graphitic Phyllite,Carbon Alteration,Fresh
+KW014,79,120,Phyllite,Moderate Sericite,Fresh
+KW014,120,121,Quartz-Carbonate Vein,Silicification,Fresh
+KW014,121,122,Phyllite,Weak Sericite,Fresh
+KW014,122,132,Greywacke,Moderate Chlorite,Fresh
+KW014,132,133,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW014,133,159,Greywacke,Weak Chlorite,Fresh
+KW014,159,165,Graphitic Phyllite,Silicification,Fresh
+KW014,165,166,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW014,166,195,Phyllite,Moderate Sericite,Fresh
+KW015,0,22,Saprolite,Partial Oxidation,Transitional
+KW015,22,26,Graphitic Phyllite,Silicification,Fresh
+KW015,26,27,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW015,27,37,Graphitic Phyllite,Strong Carbon,Fresh
+KW015,37,38,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW015,38,58,Graphitic Phyllite,Strong Carbon,Fresh
+KW015,58,110,Greywacke,Silicification,Fresh
+KW015,110,111,Phyllite,Weak Sericite,Fresh
+KW016,0,24,Saprolite,Oxidised,Fresh
+KW016,24,37,Greywacke,Silicification,Fresh
+KW016,37,38,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW016,38,51,Greywacke,Weak Chlorite,Fresh
+KW016,51,66,Felsic Volcanic,Moderate Sericite,Fresh
+KW016,66,67,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW016,67,90,Felsic Volcanic,Silicification,Fresh
+KW016,90,108,Graphitic Phyllite,Strong Carbon,Fresh
+KW017,0,17,Saprolite,Partial Oxidation,Transitional
+KW017,17,20,Graphitic Phyllite,Silicification,Transitional
+KW017,20,21,Quartz-Carbonate Vein,Carbonate Alteration,Transitional
+KW017,21,23,Graphitic Phyllite,Strong Carbon,Fresh
+KW017,23,24,Quartz-Carbonate Vein,Silicification,Fresh
+KW017,24,29,Graphitic Phyllite,Silicification,Fresh
+KW017,29,38,Phyllite,Moderate Sericite,Fresh
+KW017,38,43,Greywacke,Weak Chlorite,Fresh
+KW017,43,68,Mafic Volcanic,Weak Chlorite,Fresh
+KW017,68,70,Phyllite,Strong Sericite,Fresh
+KW017,70,71,Quartz-Carbonate Vein,Silicification,Fresh
+KW017,71,99,Phyllite,Weak Sericite,Fresh
+KW017,99,101,Graphitic Phyllite,Carbon Alteration,Fresh
+KW018,0,22,Saprolite,Partial Oxidation,Fresh
+KW018,22,37,Phyllite,Strong Sericite,Fresh
+KW018,37,38,Quartz-Carbonate Vein,Silicification,Fresh
+KW018,38,41,Phyllite,Strong Sericite,Fresh
+KW018,41,42,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW018,42,56,Phyllite,Moderate Sericite,Fresh
+KW018,56,80,Felsic Volcanic,Moderate Sericite,Fresh
+KW018,80,100,Graphitic Phyllite,Carbon Alteration,Fresh
+KW019,0,24,Saprolite,Partial Oxidation,Transitional
+KW019,24,61,Greywacke,Silicification,Fresh
+KW019,61,62,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,62,64,Greywacke,Weak Chlorite,Fresh
+KW019,64,70,Phyllite,Moderate Sericite,Fresh
+KW019,70,71,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,71,72,Phyllite,Moderate Sericite,Fresh
+KW019,72,73,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,73,109,Phyllite,Strong Sericite,Fresh
+KW019,109,110,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,110,112,Phyllite,Weak Sericite,Fresh
+KW019,112,113,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,113,119,Phyllite,Strong Sericite,Fresh
+KW019,119,138,Felsic Volcanic,Moderate Sericite,Fresh
+KW019,138,151,Phyllite,Weak Sericite,Fresh
+KW019,151,152,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,152,168,Phyllite,Weak Sericite,Fresh
+KW019,168,174,Graphitic Phyllite,Carbon Alteration,Fresh
+KW019,174,175,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW019,175,178,Graphitic Phyllite,Carbon Alteration,Fresh
+KW019,178,181,Greywacke,Moderate Chlorite,Fresh
+KW020,0,13,Saprolite,Oxidised,Oxidised
+KW020,13,28,Phyllite,Moderate Sericite,Transitional
+KW020,28,29,Felsic Volcanic,Moderate Sericite,Fresh
+KW020,29,30,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW020,30,43,Felsic Volcanic,Silicification,Fresh
+KW020,43,73,Carbonaceous Shale,Moderate Silicification,Fresh
+KW020,73,74,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW020,74,83,Carbonaceous Shale,Moderate Silicification,Fresh
+KW020,83,93,Mafic Volcanic,Weak Chlorite,Fresh
+KW020,93,101,Graphitic Phyllite,Carbon Alteration,Fresh
+KW020,101,102,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW020,102,128,Graphitic Phyllite,Carbon Alteration,Fresh
+KW020,128,160,Carbonaceous Shale,Carbon Alteration,Fresh
+KW020,160,166,Mafic Volcanic,Epidote,Fresh
+KW020,166,167,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW021,0,15,Saprolite,Partial Oxidation,Oxidised
+KW021,15,20,Mafic Volcanic,Epidote,Oxidised
+KW021,20,21,Quartz-Carbonate Vein,Carbonate Alteration,Oxidised
+KW021,21,23,Mafic Volcanic,Epidote,Oxidised
+KW021,23,24,Quartz-Carbonate Vein,Silicification,Oxidised
+KW021,24,27,Mafic Volcanic,Chlorite,Transitional
+KW021,27,28,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW021,28,50,Mafic Volcanic,Chlorite,Fresh
+KW021,50,72,Greywacke,Silicification,Fresh
+KW021,72,73,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW021,73,77,Greywacke,Weak Chlorite,Fresh
+KW021,77,98,Graphitic Phyllite,Strong Carbon,Fresh
+KW021,98,108,Carbonaceous Shale,Carbon Alteration,Fresh
+KW021,108,129,Phyllite,Weak Sericite,Fresh
+KW021,129,130,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW021,130,139,Phyllite,Weak Sericite,Fresh
+KW022,0,17,Saprolite,Oxidised,Oxidised
+KW022,17,26,Greywacke,Silicification,Transitional
+KW022,26,27,Quartz-Carbonate Vein,Carbonate Alteration,Transitional
+KW022,27,30,Greywacke,Moderate Chlorite,Fresh
+KW022,30,31,Quartz-Carbonate Vein,Silicification,Fresh
+KW022,31,44,Greywacke,Weak Chlorite,Fresh
+KW022,44,51,Graphitic Phyllite,Strong Carbon,Fresh
+KW022,51,52,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW022,52,76,Graphitic Phyllite,Carbon Alteration,Fresh
+KW022,76,77,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW022,77,79,Graphitic Phyllite,Strong Carbon,Fresh
+KW022,79,100,Phyllite,Weak Sericite,Fresh
+KW022,100,101,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW022,101,109,Phyllite,Weak Sericite,Fresh
+KW022,109,141,Graphitic Phyllite,Silicification,Fresh
+KW022,141,142,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW022,142,147,Graphitic Phyllite,Strong Carbon,Fresh
+KW022,147,161,Greywacke,Moderate Chlorite,Fresh
+KW022,161,162,Quartz-Carbonate Vein,Silicification,Fresh
+KW023,0,24,Saprolite,Oxidised,Fresh
+KW023,24,25,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW023,25,57,Graphitic Phyllite,Silicification,Fresh
+KW023,57,93,Phyllite,Strong Sericite,Fresh
+KW023,93,105,Graphitic Phyllite,Silicification,Fresh
+KW023,105,111,Mafic Volcanic,Epidote,Fresh
+KW023,111,131,Phyllite,Strong Sericite,Fresh
+KW023,131,132,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW023,132,143,Phyllite,Strong Sericite,Fresh
+KW023,143,144,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW023,144,162,Phyllite,Weak Sericite,Fresh
+KW023,162,163,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW023,163,167,Phyllite,Weak Sericite,Fresh
+KW024,0,24,Saprolite,Partial Oxidation,Transitional
+KW024,24,49,Phyllite,Strong Sericite,Fresh
+KW024,49,54,Carbonaceous Shale,Carbon Alteration,Fresh
+KW024,54,55,Quartz-Carbonate Vein,Silicification,Fresh
+KW024,55,61,Carbonaceous Shale,Carbon Alteration,Fresh
+KW024,61,81,Graphitic Phyllite,Carbon Alteration,Fresh
+KW024,81,82,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW024,82,93,Graphitic Phyllite,Strong Carbon,Fresh
+KW024,93,108,Phyllite,Weak Sericite,Fresh
+KW024,108,109,Quartz-Carbonate Vein,Silicification,Fresh
+KW024,109,143,Phyllite,Weak Sericite,Fresh
+KW024,143,144,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW024,144,151,Phyllite,Strong Sericite,Fresh
+KW025,0,24,Saprolite,Partial Oxidation,Fresh
+KW025,24,33,Greywacke,Moderate Chlorite,Fresh
+KW025,33,38,Phyllite,Moderate Sericite,Fresh
+KW025,38,39,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW025,39,59,Phyllite,Weak Sericite,Fresh
+KW025,59,61,Carbonaceous Shale,Carbon Alteration,Fresh
+KW025,61,62,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW025,62,63,Carbonaceous Shale,Moderate Silicification,Fresh
+KW025,63,64,Quartz-Carbonate Vein,Silicification,Fresh
+KW025,64,95,Carbonaceous Shale,Moderate Silicification,Fresh
+KW025,95,102,Mafic Volcanic,Weak Chlorite,Fresh
+KW026,0,15,Saprolite,Oxidised,Oxidised
+KW026,15,19,Graphitic Phyllite,Strong Carbon,Transitional
+KW026,19,20,Quartz-Carbonate Vein,Silicification,Transitional
+KW026,20,53,Graphitic Phyllite,Strong Carbon,Fresh
+KW026,53,73,Greywacke,Moderate Chlorite,Fresh
+KW026,73,74,Quartz-Carbonate Vein,Silicification,Fresh
+KW026,74,82,Greywacke,Weak Chlorite,Fresh
+KW026,82,89,Mafic Volcanic,Epidote,Fresh
+KW026,89,90,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW026,90,101,Mafic Volcanic,Weak Chlorite,Fresh
+KW026,101,104,Greywacke,Moderate Chlorite,Fresh
+KW027,0,16,Saprolite,Oxidised,Oxidised
+KW027,16,21,Phyllite,Moderate Sericite,Transitional
+KW027,21,65,Greywacke,Weak Chlorite,Fresh
+KW027,65,66,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW027,66,84,Greywacke,Weak Chlorite,Fresh
+KW027,84,85,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW027,85,87,Greywacke,Silicification,Fresh
+KW027,87,97,Graphitic Phyllite,Carbon Alteration,Fresh
+KW027,97,98,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW027,98,116,Phyllite,Strong Sericite,Fresh
+KW028,0,20,Saprolite,Oxidised,Transitional
+KW028,20,37,Graphitic Phyllite,Carbon Alteration,Fresh
+KW028,37,38,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW028,38,47,Graphitic Phyllite,Carbon Alteration,Fresh
+KW028,47,52,Greywacke,Silicification,Fresh
+KW028,52,56,Carbonaceous Shale,Moderate Silicification,Fresh
+KW028,56,57,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW028,57,64,Carbonaceous Shale,Carbon Alteration,Fresh
+KW028,64,65,Quartz-Carbonate Vein,Silicification,Fresh
+KW028,65,73,Carbonaceous Shale,Carbon Alteration,Fresh
+KW028,73,83,Phyllite,Moderate Sericite,Fresh
+KW028,83,94,Graphitic Phyllite,Carbon Alteration,Fresh
+KW028,94,95,Quartz-Carbonate Vein,Silicification,Fresh
+KW028,95,109,Graphitic Phyllite,Carbon Alteration,Fresh
+KW028,109,125,Phyllite,Moderate Sericite,Fresh
+KW028,125,152,Graphitic Phyllite,Silicification,Fresh
+KW028,152,155,Phyllite,Weak Sericite,Fresh
+KW029,0,22,Saprolite,Partial Oxidation,Fresh
+KW029,22,32,Greywacke,Moderate Chlorite,Fresh
+KW029,32,46,Phyllite,Strong Sericite,Fresh
+KW029,46,47,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW029,47,51,Phyllite,Moderate Sericite,Fresh
+KW029,51,52,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW029,52,55,Phyllite,Strong Sericite,Fresh
+KW029,55,56,Quartz-Carbonate Vein,Silicification,Fresh
+KW029,56,59,Phyllite,Weak Sericite,Fresh
+KW029,59,60,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW029,60,75,Phyllite,Weak Sericite,Fresh
+KW029,75,87,Graphitic Phyllite,Strong Carbon,Fresh
+KW029,87,88,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW029,88,95,Graphitic Phyllite,Strong Carbon,Fresh
+KW029,95,121,Carbonaceous Shale,Moderate Silicification,Fresh
+KW029,121,122,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW029,122,128,Carbonaceous Shale,Carbon Alteration,Fresh
+KW029,128,147,Greywacke,Silicification,Fresh
+KW029,147,148,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW029,148,156,Greywacke,Moderate Chlorite,Fresh
+KW029,156,182,Phyllite,Strong Sericite,Fresh
+KW030,0,10,Saprolite,Oxidised,Oxidised
+KW030,10,20,Greywacke,Silicification,Transitional
+KW030,20,21,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW030,21,23,Greywacke,Moderate Chlorite,Transitional
+KW030,23,24,Quartz-Carbonate Vein,Silicification,Transitional
+KW030,24,32,Greywacke,Silicification,Fresh
+KW030,32,33,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW030,33,38,Greywacke,Moderate Chlorite,Fresh
+KW030,38,58,Carbonaceous Shale,Carbon Alteration,Fresh
+KW030,58,67,Graphitic Phyllite,Carbon Alteration,Fresh
+KW030,67,91,Greywacke,Moderate Chlorite,Fresh
+KW030,91,93,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW030,93,94,Greywacke,Moderate Chlorite,Fresh
+KW030,94,95,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW030,95,97,Greywacke,Weak Chlorite,Fresh
+KW030,97,98,Quartz-Carbonate Vein,Silicification,Fresh
+KW030,98,106,Greywacke,Silicification,Fresh
+KW030,106,123,Felsic Volcanic,Moderate Sericite,Fresh
+KW030,123,124,Greywacke,Silicification,Fresh
+KW031,0,11,Saprolite,Oxidised,Oxidised
+KW031,11,51,Graphitic Phyllite,Carbon Alteration,Fresh
+KW031,51,81,Phyllite,Moderate Sericite,Fresh
+KW031,81,105,Mafic Volcanic,Weak Chlorite,Fresh
+KW031,105,106,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW031,106,109,Mafic Volcanic,Epidote,Fresh
+KW032,0,17,Saprolite,Oxidised,Oxidised
+KW032,17,53,Mafic Volcanic,Epidote,Fresh
+KW032,53,54,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW032,54,62,Phyllite,Weak Sericite,Fresh
+KW032,62,65,Greywacke,Weak Chlorite,Fresh
+KW032,65,66,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW032,66,72,Greywacke,Silicification,Fresh
+KW032,72,73,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW032,73,91,Greywacke,Silicification,Fresh
+KW032,91,97,Felsic Volcanic,Moderate Sericite,Fresh
+KW032,97,110,Mafic Volcanic,Weak Chlorite,Fresh
+KW032,110,111,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW033,0,16,Saprolite,Partial Oxidation,Transitional
+KW033,16,28,Phyllite,Weak Sericite,Fresh
+KW033,28,29,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW033,29,46,Phyllite,Strong Sericite,Fresh
+KW033,46,65,Felsic Volcanic,Moderate Sericite,Fresh
+KW033,65,66,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW033,66,67,Felsic Volcanic,Silicification,Fresh
+KW033,67,68,Quartz-Carbonate Vein,Silicification,Fresh
+KW033,68,69,Felsic Volcanic,Moderate Sericite,Fresh
+KW033,69,78,Graphitic Phyllite,Silicification,Fresh
+KW033,78,79,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW033,79,88,Graphitic Phyllite,Strong Carbon,Fresh
+KW033,88,89,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW033,89,101,Graphitic Phyllite,Strong Carbon,Fresh
+KW033,101,104,Phyllite,Strong Sericite,Fresh
+KW033,104,105,Quartz-Carbonate Vein,Silicification,Fresh
+KW033,105,107,Phyllite,Strong Sericite,Fresh
+KW034,0,11,Saprolite,Partial Oxidation,Oxidised
+KW034,11,49,Phyllite,Strong Sericite,Fresh
+KW034,49,50,Mafic Volcanic,Epidote,Fresh
+KW034,50,51,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW034,51,64,Mafic Volcanic,Epidote,Fresh
+KW034,64,65,Quartz-Carbonate Vein,Silicification,Fresh
+KW034,65,84,Mafic Volcanic,Weak Chlorite,Fresh
+KW034,84,92,Carbonaceous Shale,Carbon Alteration,Fresh
+KW034,92,93,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW034,93,107,Carbonaceous Shale,Carbon Alteration,Fresh
+KW034,107,110,Graphitic Phyllite,Carbon Alteration,Fresh
+KW034,110,111,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW034,111,123,Graphitic Phyllite,Strong Carbon,Fresh
+KW034,123,124,Quartz-Carbonate Vein,Silicification,Fresh
+KW034,124,132,Graphitic Phyllite,Strong Carbon,Fresh
+KW034,132,149,Phyllite,Moderate Sericite,Fresh
+KW034,149,150,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW034,150,158,Phyllite,Strong Sericite,Fresh
+KW035,0,25,Saprolite,Oxidised,Transitional
+KW035,25,65,Phyllite,Moderate Sericite,Fresh
+KW035,65,95,Mafic Volcanic,Epidote,Fresh
+KW035,95,98,Phyllite,Weak Sericite,Fresh
+KW035,98,99,Quartz-Carbonate Vein,Silicification,Fresh
+KW035,99,103,Phyllite,Strong Sericite,Fresh
+KW035,103,104,Quartz-Carbonate Vein,Silicification,Fresh
+KW035,104,120,Phyllite,Moderate Sericite,Fresh
+KW035,120,121,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW035,121,140,Carbonaceous Shale,Carbon Alteration,Fresh
+KW035,140,141,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW035,141,146,Carbonaceous Shale,Moderate Silicification,Fresh
+KW035,146,147,Graphitic Phyllite,Strong Carbon,Fresh
+KW035,147,149,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW035,149,152,Graphitic Phyllite,Carbon Alteration,Fresh
+KW035,152,164,Phyllite,Strong Sericite,Fresh
+KW035,164,172,Graphitic Phyllite,Carbon Alteration,Fresh
+KW035,172,173,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW035,173,191,Graphitic Phyllite,Carbon Alteration,Fresh
+KW036,0,24,Saprolite,Oxidised,Transitional
+KW036,24,40,Graphitic Phyllite,Strong Carbon,Fresh
+KW036,40,45,Phyllite,Strong Sericite,Fresh
+KW036,45,46,Quartz-Carbonate Vein,Silicification,Fresh
+KW036,46,60,Phyllite,Moderate Sericite,Fresh
+KW036,60,74,Graphitic Phyllite,Silicification,Fresh
+KW036,74,75,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW036,75,81,Graphitic Phyllite,Carbon Alteration,Fresh
+KW036,81,82,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW036,82,98,Graphitic Phyllite,Silicification,Fresh
+KW036,98,124,Felsic Volcanic,Silicification,Fresh
+KW036,124,138,Mafic Volcanic,Epidote,Fresh
+KW036,138,150,Greywacke,Weak Chlorite,Fresh
+KW036,150,151,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW036,151,152,Greywacke,Moderate Chlorite,Fresh
+KW036,152,169,Felsic Volcanic,Moderate Sericite,Fresh
+KW037,0,11,Saprolite,Partial Oxidation,Oxidised
+KW037,11,17,Phyllite,Moderate Sericite,Transitional
+KW037,17,18,Quartz-Carbonate Vein,Silicification,Transitional
+KW037,18,31,Phyllite,Strong Sericite,Fresh
+KW037,31,40,Graphitic Phyllite,Strong Carbon,Fresh
+KW037,40,63,Carbonaceous Shale,Carbon Alteration,Fresh
+KW037,63,64,Quartz-Carbonate Vein,Silicification,Fresh
+KW037,64,65,Graphitic Phyllite,Strong Carbon,Fresh
+KW037,65,66,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW037,66,80,Graphitic Phyllite,Silicification,Fresh
+KW037,80,81,Quartz-Carbonate Vein,Silicification,Fresh
+KW037,81,87,Graphitic Phyllite,Silicification,Fresh
+KW037,87,88,Quartz-Carbonate Vein,Silicification,Fresh
+KW037,88,97,Graphitic Phyllite,Silicification,Fresh
+KW037,97,103,Mafic Volcanic,Chlorite,Fresh
+KW037,103,111,Phyllite,Moderate Sericite,Fresh
+KW037,111,136,Graphitic Phyllite,Carbon Alteration,Fresh
+KW037,136,167,Felsic Volcanic,Moderate Sericite,Fresh
+KW038,0,11,Saprolite,Oxidised,Oxidised
+KW038,11,13,Graphitic Phyllite,Silicification,Oxidised
+KW038,13,14,Quartz-Carbonate Vein,Carbonate Alteration,Oxidised
+KW038,14,26,Graphitic Phyllite,Carbon Alteration,Transitional
+KW038,26,27,Quartz-Carbonate Vein,Carbonate Alteration,Transitional
+KW038,27,72,Graphitic Phyllite,Strong Carbon,Fresh
+KW038,72,77,Phyllite,Strong Sericite,Fresh
+KW038,77,108,Greywacke,Silicification,Fresh
+KW038,108,121,Mafic Volcanic,Weak Chlorite,Fresh
+KW038,121,139,Graphitic Phyllite,Carbon Alteration,Fresh
+KW038,139,140,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW038,140,141,Graphitic Phyllite,Strong Carbon,Fresh
+KW038,141,151,Greywacke,Moderate Chlorite,Fresh
+KW038,151,152,Phyllite,Weak Sericite,Fresh
+KW038,152,153,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW038,153,182,Phyllite,Moderate Sericite,Fresh
+KW038,182,183,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW038,183,186,Phyllite,Moderate Sericite,Fresh
+KW039,0,10,Saprolite,Oxidised,Oxidised
+KW039,10,28,Phyllite,Weak Sericite,Transitional
+KW039,28,29,Quartz-Carbonate Vein,Silicification,Transitional
+KW039,29,37,Phyllite,Weak Sericite,Fresh
+KW039,37,56,Graphitic Phyllite,Silicification,Fresh
+KW039,56,57,Quartz-Carbonate Vein,Silicification,Fresh
+KW039,57,70,Graphitic Phyllite,Carbon Alteration,Fresh
+KW039,70,71,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW039,71,80,Felsic Volcanic,Moderate Sericite,Fresh
+KW039,80,105,Phyllite,Moderate Sericite,Fresh
+KW040,0,12,Saprolite,Partial Oxidation,Oxidised
+KW040,12,15,Phyllite,Moderate Sericite,Oxidised
+KW040,15,16,Quartz-Carbonate Vein,Carbonate Alteration,Oxidised
+KW040,16,25,Phyllite,Strong Sericite,Transitional
+KW040,25,57,Mafic Volcanic,Weak Chlorite,Fresh
+KW040,57,58,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW040,58,60,Mafic Volcanic,Epidote,Fresh
+KW040,60,88,Graphitic Phyllite,Silicification,Fresh
+KW040,88,121,Phyllite,Moderate Sericite,Fresh
+KW040,121,126,Felsic Volcanic,Moderate Sericite,Fresh
+KW041,0,13,Saprolite,Partial Oxidation,Oxidised
+KW041,13,28,Phyllite,Moderate Sericite,Transitional
+KW041,28,29,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW041,29,35,Phyllite,Strong Sericite,Fresh
+KW041,35,36,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW041,36,49,Phyllite,Moderate Sericite,Fresh
+KW041,49,59,Graphitic Phyllite,Silicification,Fresh
+KW041,59,60,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW041,60,62,Graphitic Phyllite,Silicification,Fresh
+KW041,62,64,Phyllite,Weak Sericite,Fresh
+KW041,64,65,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW041,65,70,Phyllite,Weak Sericite,Fresh
+KW041,70,79,Felsic Volcanic,Silicification,Fresh
+KW041,79,80,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW041,80,106,Felsic Volcanic,Moderate Sericite,Fresh
+KW041,106,122,Greywacke,Weak Chlorite,Fresh
+KW041,122,133,Graphitic Phyllite,Carbon Alteration,Fresh
+KW041,133,134,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW041,134,140,Graphitic Phyllite,Silicification,Fresh
+KW042,0,23,Saprolite,Oxidised,Transitional
+KW042,23,27,Graphitic Phyllite,Silicification,Transitional
+KW042,27,28,Quartz-Carbonate Vein,Strong Silicification,Transitional
+KW042,28,32,Graphitic Phyllite,Silicification,Fresh
+KW042,32,37,Greywacke,Silicification,Fresh
+KW042,37,38,Quartz-Carbonate Vein,Silicification,Fresh
+KW042,38,63,Greywacke,Weak Chlorite,Fresh
+KW042,63,86,Phyllite,Moderate Sericite,Fresh
+KW042,86,87,Quartz-Carbonate Vein,Silicification,Fresh
+KW042,87,118,Greywacke,Moderate Chlorite,Fresh
+KW042,118,119,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW042,119,127,Greywacke,Weak Chlorite,Fresh
+KW042,127,136,Graphitic Phyllite,Carbon Alteration,Fresh
+KW042,136,137,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW042,137,139,Graphitic Phyllite,Silicification,Fresh
+KW042,139,168,Phyllite,Moderate Sericite,Fresh
+KW043,0,14,Saprolite,Oxidised,Oxidised
+KW043,14,37,Phyllite,Weak Sericite,Fresh
+KW043,37,38,Quartz-Carbonate Vein,Silicification,Fresh
+KW043,38,92,Phyllite,Strong Sericite,Fresh
+KW043,92,97,Graphitic Phyllite,Strong Carbon,Fresh
+KW043,97,98,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW043,98,126,Graphitic Phyllite,Carbon Alteration,Fresh
+KW043,126,128,Felsic Volcanic,Moderate Sericite,Fresh
+KW043,128,129,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW043,129,142,Felsic Volcanic,Silicification,Fresh
+KW043,142,143,Quartz-Carbonate Vein,Silicification,Fresh
+KW043,143,147,Felsic Volcanic,Silicification,Fresh
+KW044,0,15,Saprolite,Partial Oxidation,Oxidised
+KW044,15,80,Phyllite,Weak Sericite,Fresh
+KW044,80,81,Quartz-Carbonate Vein,Silicification,Fresh
+KW044,81,97,Phyllite,Strong Sericite,Fresh
+KW044,97,98,Quartz-Carbonate Vein,Silicification,Fresh
+KW044,98,99,Phyllite,Weak Sericite,Fresh
+KW044,99,100,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW044,100,112,Phyllite,Moderate Sericite,Fresh
+KW044,112,113,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW044,113,124,Phyllite,Strong Sericite,Fresh
+KW044,124,125,Quartz-Carbonate Vein,Silicification,Fresh
+KW044,125,143,Phyllite,Weak Sericite,Fresh
+KW044,143,152,Felsic Volcanic,Moderate Sericite,Fresh
+KW044,152,153,Quartz-Carbonate Vein,Silicification,Fresh
+KW044,153,167,Felsic Volcanic,Silicification,Fresh
+KW044,167,180,Mafic Volcanic,Epidote,Fresh
+KW044,180,183,Graphitic Phyllite,Carbon Alteration,Fresh
+KW045,0,13,Saprolite,Oxidised,Oxidised
+KW045,13,49,Greywacke,Silicification,Fresh
+KW045,49,67,Phyllite,Strong Sericite,Fresh
+KW045,67,68,Quartz-Carbonate Vein,Carbonate Alteration,Fresh
+KW045,68,69,Phyllite,Weak Sericite,Fresh
+KW045,69,70,Quartz-Carbonate Vein,Silicification,Fresh
+KW045,70,75,Phyllite,Strong Sericite,Fresh
+KW045,75,93,Carbonaceous Shale,Moderate Silicification,Fresh
+KW045,93,94,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW045,94,109,Carbonaceous Shale,Moderate Silicification,Fresh
+KW045,109,110,Quartz-Carbonate Vein,Strong Silicification,Fresh
+KW045,110,113,Carbonaceous Shale,Carbon Alteration,Fresh
