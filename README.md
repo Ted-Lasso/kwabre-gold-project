@@ -41,7 +41,8 @@ python generate_data.py
 ## Tools used
 - Python 3.10+
 - numpy, pandas
-- Tableau Public (visualisation dashboard)
+- ## Dashboard
+[View interactive dashboard on Tableau Public](https://public.tableau.com/views/KwabreGoldProject/KwabreGoldProject)
 
 ## Author
 Emmanuel Ako-Addo | Geological Engineer & Data Analyst
