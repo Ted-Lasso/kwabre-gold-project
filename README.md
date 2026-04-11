@@ -1,7 +1,18 @@
 # Kwabre Gold Project — RC Drill Hole Analysis
 
+> Capstone project for the Google Data Analytics Professional Certificate
+> (Coursera, March 2026)
+
 A Python-based data pipeline simulating RC drill hole data from a 
 Birimian greenstone belt gold project in Ghana, West Africa.
+
+## Background
+
+This project was built by Emmanuel Ako-Addo, a geological engineer 
+with hands-on RC drilling experience at Goldfields Ghana (Tarkwa Mine).
+The dataset is synthetic but modelled on real Birimian greenstone belt 
+geology — the same setting as major Ghanaian gold mines including 
+Tarkwa, Asanko, and Bibiani.
 
 ## What this project does
 
@@ -14,12 +25,14 @@ hole dataset, including:
 - Mineralised composite calculation at 0.5 g/t Au cutoff
 - QA/QC outlier flagging using 3-sigma lognormal method
 
-## Geological context
+## Key findings
 
-The dataset is modelled on the Birimian greenstone belt, the same 
-geological setting as major Ghanaian gold mines including Tarkwa, 
-Asanko, and Bibiani. Rock types, alteration assemblages, grade 
-distributions, and drill geometry are all calibrated to this setting.
+- Mean gold grade across all samples: 0.30 g/t Au
+- Best intercept: 8.21 g/t Au over 3m (hole KW040, 55-58m depth)
+- 151 mineralised composites identified above 0.5 g/t cutoff
+- Quartz-carbonate veins confirmed as primary gold carrier at 3.15 g/t 
+  average, versus 0.09 g/t for saprolite
+- Grade enrichment trend identified at depth below 180m
 
 ## Files
 
@@ -47,6 +60,10 @@ python generate_data.py
 - numpy, pandas
 - Tableau Public
 
+## Certificate
+[Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/WGFOZ52YTNUV)
+Completed March 2026
+
 ## Author
-Emmanuel Ako-Addo | Geological Engineer & Data Analyst  
+Emmanuel Ako-Addo | Geological Engineer & Data Analyst
 [LinkedIn](https://linkedin.com/in/eakoaddo) | [GitHub](https://github.com/Ted-Lasso/kwabre-gold-project)
