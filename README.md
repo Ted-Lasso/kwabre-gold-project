@@ -51,9 +51,15 @@ pip install numpy pandas
 python generate_data.py
 ```
 
-## Dashboard
+## Dashboards & Visualisations
 
-[View interactive dashboard on Tableau Public](https://public.tableau.com/views/KwabreGoldProject/KwabreGoldProject)
+| File | Description |
+|------|-------------|
+| [Tableau Public Dashboard](https://public.tableau.com/views/KwabreGoldProject/KwabreGoldProject) | Interactive dashboard — grade distribution, lithology, depth trends |
+| [Excel Dashboard](kwabre-gold-project-dashboard.xlsx) | Pivot table dashboard with three charts |
+
+![Tableau Dashboard](tableau-dashboard.png)
+![Excel Dashboard](dashboard-excel.png)
 
 ## Tools used
 - Python 3.10+
